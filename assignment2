@@ -1,0 +1,8 @@
+def fun(x):
+    print('a',x)
+a=int(input())
+
+if(a>=18):
+       print('yes')
+else:
+    print('no')
